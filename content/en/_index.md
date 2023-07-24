@@ -109,7 +109,7 @@ sections:
         - certificate_url: ''
           date_end: '2022-06-01'
           date_start: '2018-09-01'
-          description: ''
+          description: 'Top 5% in 2022 graduates'
           organization: Beijing Institute of Technology
           organization_url: ''
           title: 'Full Semester Scholarships'
