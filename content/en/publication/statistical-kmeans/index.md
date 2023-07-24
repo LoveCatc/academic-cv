@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Application of Statistical K-Means Algorithm for University Academic Evaluation"
 authors:
 - Daohua Yu
 - Xin Zhou
