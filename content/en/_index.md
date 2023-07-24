@@ -79,9 +79,9 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing and cleaning text data
+              * Analysing and experimenting with text data
               * Building and maintaining data infrastructure
-              * Developing and deploying processing pipelines
+              * Collaborating with the team to construct models
         # - title: Professor of Semiconductor Physics
         #   company: University X
         #   company_url: ''
@@ -95,6 +95,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      id: accomplishments
       title: 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
@@ -105,30 +106,46 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+        - certificate_url: ''
+          date_end: '2022-06-01'
+          date_start: '2018-09-01'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Beijing Institute of Technology
+          organization_url: ''
+          title: 'Full Semester Scholarships'
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: ''
+          date_end: '2021-09-01'
+          date_start: '2020-09-01'
+          description: 'National Prize, Top 1%'
+          organization: Beijing Institute of Technology
+          organization_url: ''
+          title: '84781 Scholarship'
+          url: ''
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          date_start: '2022-12-01'
+          description: 'Top 13.36% in 17970 teams'
+          organization: Beijing Institute of Technology
+          organization_url: 'Ministry of Education, PRC'
+          title: 'NPMCM 2nd Prize'
           url: ''
+        # - certificate_url: https://www.edx.org
+        #   date_end: ''
+        #   date_start: '2021-01-01'
+        #   description: Formulated informed blockchain models, hypotheses, and use cases.
+        #   organization: edX
+        #   organization_url: https://www.edx.org
+        #   title: Blockchain Fundamentals
+        #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        # - certificate_url: https://www.datacamp.com
+        #   date_end: '2020-12-21'
+        #   date_start: '2020-07-01'
+        #   description: ''
+        #   organization: DataCamp
+        #   organization_url: https://www.datacamp.com
+        #   title: 'Object-Oriented Programming in R'
+        #   url: ''
     design:
       columns: '2'
   # - block: collection
@@ -206,7 +223,8 @@ sections:
   #     view: card
   - block: collection
     content:
-      title: Recent Publications
+      id: publications
+      title: Publications
       # text: |-
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
