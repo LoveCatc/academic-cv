@@ -73,3 +73,6 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+### Self modified
+ignoreErrors: [error-remote-getcsv]
