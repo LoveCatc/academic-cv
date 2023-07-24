@@ -74,7 +74,7 @@ sections:
           company_url: 'https://deeplang.ai/'
           # company_logo: org-gc
           location: Beijing, China
-          date_start: '2023-03'
+          date_start: '2023-03-30'
           date_end: ''
           description: |2-
               Responsibilities include:
