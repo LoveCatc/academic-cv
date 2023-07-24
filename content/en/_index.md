@@ -45,17 +45,17 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
+        - name: Python
+          description: Proficient in research and development
+          icon: python
           icon_pack: fab
         - name: Statistics
-          description: 100%
+          description: Bayesian Inference & Gaussian Process
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: English
+          description: CET6 603 | TOEFL 106
+          icon: earth-americas
           icon_pack: fas
   - block: experience
     content:
