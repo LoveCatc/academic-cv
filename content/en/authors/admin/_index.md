@@ -81,5 +81,5 @@ highlight_name: true
 ---
 
 <!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
-Yu Pan is a master degree candidate of applied statistics at Beijing Institute of Technology School of Mathematics and Statistics. He expects to graduate in June, 2024. For his master's thesis, Yu is combining machine learning with statistical methods and manifold theories for data processing and pattern recognition under the supervision of Prof. Huafei Sun. 
+Yu Pan is completing his master's degree in applied statistics at Beijing Institute of Technology School of Mathematics and Statistics, where he conducts research under the supervision of Prof. Huafei Sun and Prof. Tongzhu Li. For his master's thesis, Yu is combining machine learning with statistical methods and manifold theories for data processing and pattern recognition. Yu is currently seeking a PhD position for 2024 fall entry to continue his graduate studies. He is eager to work with interdisciplinary research teams to solve pressing issues for real-world impact. 
 {style="text-align: justify;"}

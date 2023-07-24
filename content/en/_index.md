@@ -59,7 +59,7 @@ sections:
           icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: Internship
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -69,27 +69,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Data Engineer Intern
+          company: DeepLang
+          company_url: 'https://deeplang.ai/'
+          # company_logo: org-gc
+          location: Beijing, China
+          date_start: '2023-03'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Analysing and cleaning text data
+              * Building and maintaining data infrastructure
+              * Developing and deploying processing pipelines
+        # - title: Professor of Semiconductor Physics
+        #   company: University X
+        #   company_url: ''
+        #   company_logo: org-x
+        #   location: California
+        #   date_start: '2016-01-01'
+        #   date_end: '2020-12-31'
+        #   description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
@@ -207,10 +207,10 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
       filters:
         folders:
           - publication
@@ -218,21 +218,21 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     columns: '2'
+  #     view: compact
+  # - block: tag_cloud
+  #   content:
+  #     title: Popular Topics
+  #   design:
+  #     columns: '2'
   - block: contact
     id: contact
     content:
