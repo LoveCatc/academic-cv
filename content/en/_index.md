@@ -79,7 +79,7 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing and experimenting with text data
+              * Analysing and processing TB-scale text data
               * Building and maintaining data infrastructure
               * Collaborating with the team to construct models
         # - title: Professor of Semiconductor Physics
@@ -126,8 +126,8 @@ sections:
           date_end: ''
           date_start: '2022-12-01'
           description: 'Top 13.36% in 17970 teams'
-          organization: Beijing Institute of Technology
-          organization_url: 'Ministry of Education, PRC'
+          organization: 'Ministry of Education, PRC'
+          organization_url: 
           title: 'NPMCM 2nd Prize'
           url: ''
         # - certificate_url: https://www.edx.org

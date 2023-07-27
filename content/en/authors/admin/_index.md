@@ -55,14 +55,14 @@ social:
     icon_pack: fab
     link: https://u.wechat.com/EMpemC2mKOTKCUYjWQ_oTvY
     label: Chat with me by WeChat (id_wssz10086)
-    display:
-      header: true
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/lovecatc
+    display:
+      header: true
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/

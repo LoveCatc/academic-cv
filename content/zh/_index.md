@@ -38,19 +38,19 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: 个人陈述
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: features
     content:
-      title: Skills
+      title: 擅长技能
       items:
         - name: Python
-          description: Proficient in research and development
+          description: 丰富的科研和开发经验
           icon: python
           icon_pack: fab
         - name: Statistics
-          description: Bayesian Inference & Gaussian Process
+          description: 统计推断和高斯过程
           icon: chart-line
           icon_pack: fas
         - name: English
@@ -59,7 +59,7 @@ sections:
           icon_pack: fas
   - block: experience
     content:
-      title: Internship
+      title: 实习经历
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -69,19 +69,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Data Engineer Intern
-          company: DeepLang
+        - title: 数据工程师
+          company: 深言科技
           company_url: 'https://deeplang.ai/'
           # company_logo: org-gc
-          location: Beijing, China
+          location: 中国，北京
           date_start: '2023-03-30'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              实习期间我的工作包括：
 
-              * Analysing and experimenting with text data
-              * Building and maintaining data infrastructure
-              * Collaborating with the team to construct models
+              * 分析和处理TB级别的海量文本数据
+              * 搭建并维护数据收集和处理的基础设施
+              * 与算法团队合作，提供数据支持并构建模型
         # - title: Professor of Semiconductor Physics
         #   company: University X
         #   company_url: ''
@@ -96,7 +96,7 @@ sections:
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       id: accomplishments
-      title: 'Accomplish&shy;ments'
+      title: '个人荣誉'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -109,26 +109,26 @@ sections:
         - certificate_url: ''
           date_end: '2022-06-01'
           date_start: '2018-09-01'
-          description: 'Top 5% in 2022 graduates'
-          organization: Beijing Institute of Technology
+          description: '2022级毕业生前5%'
+          organization: 北京理工大学
           organization_url: ''
-          title: 'Full Semester Scholarships'
+          title: '本科学业奖学金 (8学期)'
           url: ''
         - certificate_url: ''
           date_end: '2021-09-01'
           date_start: '2020-09-01'
-          description: 'National Prize, Top 1%'
-          organization: Beijing Institute of Technology
+          description: '国家级奖项，前1%'
+          organization: 北京理工大学
           organization_url: ''
-          title: '84781 Scholarship'
+          title: '84781奖学金'
           url: ''
         - certificate_url: ''
           date_end: ''
           date_start: '2022-12-01'
-          description: 'Top 13.36% in 17970 teams'
-          organization: Beijing Institute of Technology
-          organization_url: 'Ministry of Education, PRC'
-          title: 'NPMCM 2nd Prize'
+          description: 17970支队伍前13.36%
+          organization: 教育部
+          organization_url: 
+          title: 研究生数学建模竞赛二等奖
           url: ''
         # - certificate_url: https://www.edx.org
         #   date_end: ''
@@ -224,7 +224,7 @@ sections:
   - block: collection
     content:
       id: publications
-      title: Publications
+      title: 发表论文
       # text: |-
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
@@ -254,10 +254,10 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: 联系方式
       subtitle:
       text: |-
-        Feel free to contact me if you have any questions or requests.
+        欢迎联系
       # Contact (add or remove contact options as necessary)
       email: p4nyu@foxmail.com
       phone: +86-13869099329
